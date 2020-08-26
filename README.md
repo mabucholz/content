@@ -1,4 +1,8 @@
-## Index to My Agent Based Modeling Work
-# Assignments
+### Index to My Agent Based Modeling Work
+## Assignments
 
-[Here is a link to my first assignment:](https://rpubs.com/mabuch/651829)
+# Path Between Homes
+[Here](https://rpubs.com/mabuch/651829) is a link to my first assignment
+
+# Map of Liberia
+Liberia Shape Data converted to [this map](https://rpubs.com/mabuch/652844) through R
