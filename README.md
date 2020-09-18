@@ -9,5 +9,8 @@ Liberia and Gabon shapefiles converted into [two maps](https://rpubs.com/mabuch/
 # Gabon Counties
 Gabon County populations represented with color gradients [here](https://rpubs.com/mabuch/653485)
 
-# Project 1: Part 1
+# Project 1: Pop Density of Gabon and Subdivisions
 Gabon counties with population data represented with a [bar plot and map](https://rpubs.com/mabuch/659187)
+
+# Project 1: Urban Areas within selected administrative boundary: Woleu
+[Woleu, Woleu-Ntem in Gabon](https://rpubs.com/mabuch/662233) is my selected area in which I define urban areas not provided in our GADM data
