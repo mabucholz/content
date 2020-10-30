@@ -21,3 +21,6 @@ H. Yang, Z. Kong, and MD Sarder, eds)](https://d1wqtxts1xzle7.cloudfront.net/461
 
 # Data Science Insight 2
 This paper, coincidentally, was also published in 2016. Titled [Multi-Agent Based Modeling for Electric Vehicle Integration in a Distribution Network Integration](https://www.sciencedirect.com/science/article/abs/pii/S037877961630061X), it describes an agent-based modeling approach to meet energy demand as the number of electric vehicles on the road increases. My insight into this article is published [here](https://rpubs.com/mabuch/676412).
+
+# Project 2: Generated Synthetic Populations
+The country of Gabon [analyzed](https://rpubs.com/mabuch/683877) at the adm0 and adm2 locations, specefying at Woleu in Woleu-Ntem, Gabon.
