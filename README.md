@@ -24,3 +24,6 @@ This paper, coincidentally, was also published in 2016. Titled [Multi-Agent Base
 
 # Project 2: Generated Synthetic Populations
 The country of Gabon [analyzed](https://rpubs.com/mabuch/683877) at the adm0 and adm2 locations, specefying at Woleu in Woleu-Ntem, Gabon.
+
+# Data Science Insight 3:
+[This](https://rpubs.com/mabuch/683902) Data Science Insight pertains to the Zhenhua data leak where a database with over 2 million people and their sensitive information was found.
