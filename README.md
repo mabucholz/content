@@ -27,3 +27,6 @@ The country of Gabon [analyzed](https://rpubs.com/mabuch/683877) at the adm0 and
 
 # Data Science Insight 3:
 [This](https://rpubs.com/mabuch/683902) Data Science Insight pertains to the Zhenhua data leak where a database with over 2 million people and their sensitive information was found.
+
+# In-Class Essay
+[In-Class Essay](https://rpubs.com/mabuch/690554) about ethical considerations of the potential we have with ABM to understand and influence social dynamics.
