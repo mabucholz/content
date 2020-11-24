@@ -30,3 +30,6 @@ The country of Gabon [analyzed](https://rpubs.com/mabuch/683877) at the adm0 and
 
 # In-Class Essay
 [In-Class Essay](https://rpubs.com/mabuch/690554) about ethical considerations of the potential we have with ABM to understand and influence social dynamics.
+
+# Project 3
+[Final Project Writeup](https://rpubs.com/mabuch/695394) on migration between administrative boundaries within our selected country.
